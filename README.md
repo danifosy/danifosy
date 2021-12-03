@@ -20,4 +20,5 @@
 
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=danifosy&hide=contribs,show_icons=true&theme=white"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+
